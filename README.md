@@ -1,106 +1,92 @@
-# IBM-HR-Analytics-Employee-Attrition-and-Performance
-#Overview
+# IBM HR Analytics – Employee Attrition & Performance
 
-This project analyzes the IBM HR Analytics Employee Attrition & Performance dataset to identify factors influencing employee attrition and workforce performance. The analysis includes data cleaning, exploratory data analysis (EDA), statistical insights, and visualizations to support HR decision-making.
+## 📌 Overview
 
+This project analyzes the **IBM HR Analytics Employee Attrition & Performance** dataset to identify factors influencing employee attrition and workforce performance. The analysis includes **data cleaning, exploratory data analysis (EDA), statistical insights, and visualizations** to support HR decision-making.
 
-#Objectives
+---
 
-Understand employee demographics and workforce distribution.
+## 🎯 Objectives
 
-Analyze employee attrition across departments and job roles.
+- Understand employee demographics and workforce distribution.
+- Analyze employee attrition across departments and job roles.
+- Explore salary, age, and performance trends.
+- Generate meaningful insights through data visualization.
 
-Explore salary, age, and performance trends.
+---
 
-Generate insights using data visualization.
+## 🛠️ Technologies Used
 
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
-#Technologies Used
+---
 
-Python
+## 📂 Project Workflow
 
-Pandas
+### Phase 1: Data Understanding
+- Dataset exploration
+- Data types analysis
+- Statistical summary
 
-NumPy
+### Phase 2: Data Cleaning
+- Missing value analysis
+- Duplicate value detection
 
-Matplotlib
+### Phase 3: Exploratory Data Analysis (EDA)
+- Department-wise employee distribution
+- Gender distribution
+- Employee attrition analysis
+- Job role analysis
+- Monthly income statistics
 
-Seaborn
+### Phase 4: NumPy Operations
+- Income statistics
+- Income categorization using `np.where()`
 
-Jupyter Notebook
+### Phase 5: Data Visualization (Matplotlib)
+- Department distribution
+- Income distribution
+- Age distribution
+- Attrition percentage
 
+### Phase 6: Data Visualization (Seaborn)
+- Salary vs Attrition
+- Age vs Attrition
+- Department-wise Attrition
+- Correlation Heatmap
 
-#Project Workflow
+---
 
-#Phase 1 – Data Understanding
+## 📊 Key Insights
 
-Dataset exploration
+- Identified departments with higher employee attrition rates.
+- Compared attrition across genders and job roles.
+- Analyzed salary distribution and employee age patterns.
+- Visualized relationships between employee characteristics and attrition.
 
-Data types
+---
 
-Statistical summary
+## 📁 Dataset
 
-#Phase 2 – Data Cleaning
+**Dataset:** IBM HR Analytics Employee Attrition & Performance Dataset
 
-Missing value analysis
+---
 
-Duplicate value detection
+## 🚀 Future Improvements
 
-#Phase 3 – Exploratory Data Analysis
+- Build machine learning models to predict employee attrition.
+- Develop an interactive HR dashboard using Power BI or Tableau.
+- Perform feature engineering for predictive analytics.
 
-Department-wise employee distribution
+---
 
-Gender distribution
+## 👩‍💻 Author
 
-Attrition analysis
+**Chaithra B R**
 
-Job role analysis
-
-Monthly income statistics
-
-#Phase 4 – NumPy Operations
-
-Income statistics
-
-Income categorization using np.where
-
-#Phase 5 – Data Visualization (Matplotlib)
-
-Department distribution
-
-Income distribution
-
-Age distribution
-
-Attrition percentage
-
-#Phase 6 – Data Visualization (Seaborn)
-
-Salary vs Attrition
-
-Age vs Attrition
-
-Department-wise Attrition
-
-Correlation Heatmap
-
-
-#Key Insights
-
-Identified departments with higher attrition rates.
-
-Compared attrition across genders and job roles.
-
-Analyzed salary distribution and employee age patterns.
-
-Visualized relationships between employee characteristics and attrition.
-
-
-#Dataset
-
-IBM HR Analytics Employee Attrition & Performance Dataset.
-
-
-#Author
-
-Chaithra B R
+⭐ If you found this project useful, consider giving it a **Star** on GitHub!
