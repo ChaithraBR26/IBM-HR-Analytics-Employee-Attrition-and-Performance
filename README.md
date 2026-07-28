@@ -12,53 +12,53 @@ Generate insights using data visualization.
 
 Technologies Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+*Python
+*Pandas
+*NumPy
+*Matplotlib
+*Seaborn
+*Jupyter Notebook
 
 Project Workflow
 
 Phase 1 – Data Understanding
-Dataset exploration
-Data types
-Statistical summary
+*Dataset exploration
+*Data types
+*Statistical summary
 
 Phase 2 – Data Cleaning
-Missing value analysis
-Duplicate value detection
+*Missing value analysis
+*Duplicate value detection
 
 Phase 3 – Exploratory Data Analysis
-Department-wise employee distribution
-Gender distribution
-Attrition analysis
-Job role analysis
-Monthly income statistics
+*Department-wise employee distribution
+*Gender distribution
+*Attrition analysis
+*Job role analysis
+*Monthly income statistics
 
 Phase 4 – NumPy Operations
-Income statistics
-Income categorization using np.where
+*Income statistics
+*Income categorization using np.where
 
 Phase 5 – Data Visualization (Matplotlib)
-Department distribution
-Income distribution
-Age distribution
-Attrition percentage
+*Department distribution
+*Income distribution
+*Age distribution
+*Attrition percentage
 
 Phase 6 – Data Visualization (Seaborn)
-Salary vs Attrition
-Age vs Attrition
-Department-wise Attrition
-Correlation Heatmap
+*Salary vs Attrition
+*Age vs Attrition
+*Department-wise Attrition
+*Correlation Heatmap
 
 Key Insights
 
-Identified departments with higher attrition rates.
-Compared attrition across genders and job roles.
-Analyzed salary distribution and employee age patterns.
-Visualized relationships between employee characteristics and attrition.
+*Identified departments with higher attrition rates.
+*Compared attrition across genders and job roles.
+*Analyzed salary distribution and employee age patterns.
+*Visualized relationships between employee characteristics and attrition.
 
 Dataset
 
