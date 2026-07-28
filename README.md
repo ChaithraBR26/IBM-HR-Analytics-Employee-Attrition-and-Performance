@@ -1,10 +1,10 @@
 # IBM-HR-Analytics-Employee-Attrition-and-Performance
-Overview
+#Overview
 
 This project analyzes the IBM HR Analytics Employee Attrition & Performance dataset to identify factors influencing employee attrition and workforce performance. The analysis includes data cleaning, exploratory data analysis (EDA), statistical insights, and visualizations to support HR decision-making.
 
 
-Objectives
+#Objectives
 
 Understand employee demographics and workforce distribution.
 
@@ -15,7 +15,7 @@ Explore salary, age, and performance trends.
 Generate insights using data visualization.
 
 
-Technologies Used
+#Technologies Used
 
 Python
 
@@ -30,9 +30,9 @@ Seaborn
 Jupyter Notebook
 
 
-Project Workflow
+#Project Workflow
 
-Phase 1 – Data Understanding
+#Phase 1 – Data Understanding
 
 Dataset exploration
 
@@ -40,13 +40,13 @@ Data types
 
 Statistical summary
 
-Phase 2 – Data Cleaning
+#Phase 2 – Data Cleaning
 
 Missing value analysis
 
 Duplicate value detection
 
-Phase 3 – Exploratory Data Analysis
+#Phase 3 – Exploratory Data Analysis
 
 Department-wise employee distribution
 
@@ -58,13 +58,13 @@ Job role analysis
 
 Monthly income statistics
 
-Phase 4 – NumPy Operations
+#Phase 4 – NumPy Operations
 
 Income statistics
 
 Income categorization using np.where
 
-Phase 5 – Data Visualization (Matplotlib)
+#Phase 5 – Data Visualization (Matplotlib)
 
 Department distribution
 
@@ -74,7 +74,7 @@ Age distribution
 
 Attrition percentage
 
-Phase 6 – Data Visualization (Seaborn)
+#Phase 6 – Data Visualization (Seaborn)
 
 Salary vs Attrition
 
@@ -85,7 +85,7 @@ Department-wise Attrition
 Correlation Heatmap
 
 
-Key Insights
+#Key Insights
 
 Identified departments with higher attrition rates.
 
@@ -96,11 +96,11 @@ Analyzed salary distribution and employee age patterns.
 Visualized relationships between employee characteristics and attrition.
 
 
-Dataset
+#Dataset
 
 IBM HR Analytics Employee Attrition & Performance Dataset.
 
 
-Author
+#Author
 
 Chaithra B R
